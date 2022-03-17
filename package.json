@@ -1,0 +1,17 @@
+{
+  "name": "connection-rabbitmq",
+  "version": "1.0.0",
+  "description": "rabbitqm connection test",
+  "main": "producer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rabbitmq"
+  ],
+  "author": "jorgejy2",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.8.0"
+  }
+}
